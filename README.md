@@ -1,5 +1,5 @@
 # ER-BLS
-This project includes the python code of braod learning system fuse with CNN based on transfer learning for facial beauty prediction(FBP), and two benchmark datasets, such as SCUT-FBP5500, SCUT-FBP. Welcome to use and reference our papers.  
+This project includes the python code of braod learning system fusing with CNN based on transfer learning for facial beauty prediction(FBP), and two benchmark datasets, such as SCUT-FBP5500, SCUT-FBP. Welcome to use and reference our papers.  
 Get datasets: [SCUT-FBP5500](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release) and [SCUT-FBP](http://www.hcii-lab.net/data/SCUT-FBP/).
  Please refer to our paper "[Facial beauty prediction fusing transfer learning and broad learning system](https://doi.org/10.1007/s00500-022-07563-1)" and "[TransBLS: transformer combined with broad learning system for facial beauty prediction](https://doi.org/10.1007/s10489-023-04931-8)" for more details.
 
