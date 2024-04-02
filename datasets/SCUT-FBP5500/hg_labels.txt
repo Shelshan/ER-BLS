@@ -1,0 +1,19 @@
+Label,  Latin Name              , Common Name                , Train Images  , Validation Images
+0       , very_unattractive     , very_unattractive          , 61           , 15
+1       , unattractive          , unattractive               , 657          , 164
+2       , average	            , average                    , 2623         , 655  
+3       , beautiful	            , beautiful                  , 981          , 245 
+4       , very_beautiful	    , very_beautiful             , 80           , 19 
+
+
+
+
+
+
+
+
+
+
+
+
+
